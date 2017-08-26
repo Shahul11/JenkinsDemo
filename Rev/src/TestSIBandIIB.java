@@ -1,5 +1,5 @@
 
-public class TestSIBandIIB {
+public ddclass TestSIBandIIB {
 	
 	int a;
 	static int b;
