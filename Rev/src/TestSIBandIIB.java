@@ -29,7 +29,7 @@ public class TestSIBandIIB {
 
 		TestSIBandIIB t = new TestSIBandIIB();
 		TestSIBandIIB t1 = new TestSIBandIIB();
-		//System.out.println(t.a);
+		System.out.println(t.a);
 		//System.out.println(TestSIBandIIB.b);
 	}
 
